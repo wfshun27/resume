@@ -2,8 +2,8 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: PCS Security Pte Ltd
+    role: Senior Engineer
     description:
       - Led development of a new chatbot software utilizing large language model
       - Co-designer of '*Kopilot*' and '*Gemmini*'
